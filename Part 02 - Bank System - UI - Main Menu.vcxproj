@@ -123,9 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="clsAddNewClientScreen.cpp" />
     <ClCompile Include="Part 02 - Bank System - UI - Main Menu.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsAddNewClientScreen.h" />
     <ClInclude Include="clsBankClient.h" />
     <ClInclude Include="clsClientListScreen.h" />
     <ClInclude Include="clsDate.h" />

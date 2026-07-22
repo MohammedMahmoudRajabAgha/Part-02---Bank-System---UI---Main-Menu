@@ -21,6 +21,9 @@
     <ClCompile Include="Part 02 - Bank System - UI - Main Menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="clsAddNewClientScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clsBankClient.h">
@@ -51,7 +54,10 @@
       <Filter>Header Files\Screens</Filter>
     </ClInclude>
     <ClInclude Include="clsClientListScreen.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewClientScreen.h">
+      <Filter>Header Files\Screens</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
