@@ -126,10 +126,8 @@
     <ClCompile Include="Part 02 - Bank System - UI - Main Menu.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Clients.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="clsBankClient.h" />
+    <ClInclude Include="clsClientListScreen.h" />
     <ClInclude Include="clsDate.h" />
     <ClInclude Include="clsInputValidate.h" />
     <ClInclude Include="clsMainScreen.h" />
